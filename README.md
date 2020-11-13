@@ -20,7 +20,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 
-###Spotify playing
+### Spotify playing
 <!--
 **jonathans-99/jonathans-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
