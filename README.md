@@ -22,6 +22,7 @@
 ![Laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Githud stats
-![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jonathans-99)
+![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jonathans-99&theme=dark&show_icons=true&count_private=true)
 
 ### Spotify playing
+
