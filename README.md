@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan Pérez 👋
 
-### I'm a newbie web developer  and technology enthusiast 👨‍💻
+### I'm a junior web developer  and technology enthusiast 👨‍💻
 -  ⚙ I'm always trying to learn new things in technology
 - 🎧 I'm always listening to music
 
