@@ -1,4 +1,4 @@
-## Hi there, I'm Jonathan Pérez 👋
+## Hi, I'm Jonathan Pérez 👋
 
 ### I'm a junior web developer  and technology enthusiast 👨‍💻
 -  ⚙ I'm always trying to learn new things in technology
