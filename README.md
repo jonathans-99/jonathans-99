@@ -22,6 +22,7 @@
 <img align="left" alt ="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/>
 <img align="left" alt ="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <br/>
+<br/>
 
 ### Githud stats
 ![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jonathans-99&theme=dark&show_icons=true&count_private=true)
