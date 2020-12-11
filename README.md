@@ -26,4 +26,4 @@
 ### Githud stats
 ![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jonathans-99&theme=dark&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathans-99&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathans-99&layout=compact&theme=dark&count_private=true)
