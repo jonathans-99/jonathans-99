@@ -1,6 +1,6 @@
 ## Hi, I'm Jonathan Perez 👋
 
-#### I'm web developer and technology enthusiast 👨‍💻
+#### I'm software developer and technology enthusiast 👨‍💻
 
 - 📝 Learning new things in technology
 - 🤖 Currently developing virtual assistants
